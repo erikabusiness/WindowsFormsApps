@@ -1,0 +1,14 @@
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\bin\Debug\Banco\Banco.sdf
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\bin\Debug\Win02.exe.config
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\bin\Debug\Win02.exe
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\bin\Debug\Win02.pdb
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.csproj.AssemblyReference.cache
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.CadastroFuncionario.resources
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.Properties.Resources.resources
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.TelaPrincipal.resources
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.csproj.GenerateResource.cache
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.csproj.CoreCompileInputs.cache
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.csproj.Up2Date
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.exe
+C:\Users\55799\source\repos\WindowsFormsApps\Win02\obj\Debug\Win02.pdb
